@@ -1,12 +1,10 @@
-<div id='linkedin'></div>
 <br><br><br>
-<a href="https://www.linkedin.com/in/rafael-m-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:rodriguesrafaelm@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<br><br>
 
-### Meu nome é Rafael, tenho 25 anos e sou estudante de Análise e desenvolvimento de sistemas pela UNESA. 
+### Me chamo Rafael, tenho 25 anos e sou estudante de Análise e desenvolvimento de sistemas pela UNESA. 
 ###### Inicio do curso 28/02/2021 -  Previsão de conclusão 30/06/2023<br><br>
-<h3> Conheci a programação quando tinha entre 11 e 12 anos criando um servidor de Mu online.</h3>
+<h4> Conheci a programação quando tinha entre 11 anos criando um servidor de Mu online.</h4>
+<details>
+<summary>Clique para saber mais</summary>
 <h4>Me apaixonei pela possibilidade de poder transformar minhas ideias em realidade e comecei a pesquisar outras ferramentas <br>
 e jogos que permitissem esse tipo de manipulação. Passei por Tibia, Ragnarok até encontrar o BYOND, uma plataforma de <br>
 desenvolvimento de jogos online onde eu baixava varios jogos com código aberto e editava com os itens, personagens e<br>
@@ -20,10 +18,15 @@ que é trabalhar como programador pode se tornar real, e por esse motivo resolvi
 Criei CRUDs, APIs, Jogos, Websites e alguns projetos mais simples de automação pra facilitar algumas atividades repetitivas.<br><br>
 
 Estou orientando meus estudos principalmente por videos na internet. Canais como o do Fabio Akita, Rocketseat, Felipe Deschamps, Código Fonte TV,
-Cursoemvideo do Gustavo Guanabara, pra citar alguns, tem me ajudado bastante a aprender mais sobre esse mundo.<br><br>
+Cursoemvideo do Gustavo Guanabara, pra citar alguns, tem me ajudado bastante a aprender mais sobre esse mundo. </h4> <br><br>
+ </details>
 
 
-Caso queira entrar em contato me encontre nos links <a href='#linkedin'>acima<a>.</h4>
+<div align='center' id='linkedin'>
+<br><br><br>
+<h2> Links </h2>
+<a href="https://www.linkedin.com/in/rafael-m-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:rodriguesrafaelm@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a></div>
 <br><br>
 
  <h2 align='center'>🛠 Tecnologias</h2>
@@ -45,3 +48,5 @@ Caso queira entrar em contato me encontre nos links <a href='#linkedin'>acima<a>
  <h2 align='center'>📈 My GitHub Stats<h2>
  
 ![](https://raw.githubusercontent.com/rodriguesrafaelm/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+ 
+ <h4>Caso queira entrar em contato me encontre nos links <a href='#linkedin'>acima<a>.</h4>

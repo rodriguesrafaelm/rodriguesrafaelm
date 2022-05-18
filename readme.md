@@ -12,8 +12,7 @@ mapas que eu gostava. Acabei me afastando desse mundo pois além dos materiais d
 ingles(o meu era bem iniciante) e não conhecer ninguem dessa área, eu era a unica pessoa com computador no lugar onde <br>
 eu morava, e por ele pertencer ao meu pai meu tempo era bem limitado e eu não podia baixar muitas coisas.<br><br>
 
-Recentemente, eu conheci algumas pessoas que trabalham na área, e revivendo essas lembranças, percebi que esse meu sonho de infância<br>
-que é trabalhar como programador pode se tornar real, e por esse motivo resolvi estudar programação. <br>
+Recentemente, eu conheci algumas pessoas que trabalham na área, e revivendo essas lembranças, percebi que esse meu sonho de infância que é trabalhar como programador pode se tornar real, e por esse motivo resolvi estudar programação. <br>
  Comecei ano passado, mas meu sangue ferve de vontade de aprender. Desde o inicio eu tenho estudado o máximo que posso diversas tecnologias. Dentre elas, destaco o Python que me cativou com sua sintaxe simples e sua comunidade fortemente ativa.<br>
 Criei CRUDs, APIs, Jogos, Websites e alguns projetos mais simples de automação pra facilitar algumas atividades repetitivas.<br><br>
 

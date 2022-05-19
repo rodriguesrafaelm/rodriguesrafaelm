@@ -2,7 +2,7 @@
 
 ### Me chamo Rafael, tenho 25 anos e sou estudante de Análise e desenvolvimento de sistemas pela UNESA. 
 ###### Inicio do curso 28/02/2021 -  Previsão de conclusão 30/06/2023<br><br>
-<h4> Conheci a programação quando tinha entre 11 anos criando um servidor de Mu online.</h4>
+<h4> Conheci a programação quando tinha 11 anos criando um servidor de Mu online.</h4>
 <details>
 <summary>Clique para saber mais</summary>
 <h4>Me apaixonei pela possibilidade de poder transformar minhas ideias em realidade e comecei a pesquisar outras ferramentas <br>

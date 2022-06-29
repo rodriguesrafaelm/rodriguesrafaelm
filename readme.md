@@ -46,7 +46,7 @@ Cursoemvideo do Gustavo Guanabara, pra citar alguns, tem me ajudado bastante a a
 </details>
  <h2 align='center'>📈 My GitHub Stats<h2>
  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodriguesrafaelm&show_icons=true&locale=en&layout=compact&theme=radical" alt="rodriguesrafaelm" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodriguesrafaelm&hide=SCSS,CSS&show_icons=true&locale=en&layout=compact&theme=radical" alt="rodriguesrafaelm" /></p><br>
  
  <h4>Caso queira entrar em contato me encontre nos links <a href='#linkedin'>acima<a>.</h4>
 

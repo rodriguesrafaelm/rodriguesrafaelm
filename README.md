@@ -9,7 +9,7 @@ Olá, me chamo Rafael, sou um desenvolvedor em busca de minha primeira oportunid
 \
 **EN**
 
-Hello, my name is Rafael and I'm a developer seeking my first professional opportunity. My main focus is on web development. I have a special interest in backend, but I'm always willing to learn new things and adapt. \
+Hello, my name is Rafael and I'm a developer seeking my first job. My main focus is on web development. I have a special interest in backend, but I'm always willing to learn new things and adapt. \
 <br>
 
 

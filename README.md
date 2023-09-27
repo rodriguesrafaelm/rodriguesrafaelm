@@ -1,6 +1,6 @@
 
 # *Sobre mim*
-Atualmente estou cursando **Análise e desenvolvimento de sistemas** na UNESA e concluo em 06/2023
+Formado em **Análise e desenvolvimento de sistemas**.
 
 
 
